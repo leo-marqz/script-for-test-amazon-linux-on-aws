@@ -1,1 +1,1 @@
-# script-for-test-amazon-linux-on-aws
+# Es un script bash para obtener datos de red usado en el lanzamiento de una instancia de amazon linux sea unica o a traves de una plantilla para despliegue de instancias usando Auto Saling Group y un Load Balancer en Amazon Web Services
