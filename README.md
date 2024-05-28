@@ -1,0 +1,1 @@
+# script-for-test-amazon-linux-on-aws
