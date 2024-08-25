@@ -6,6 +6,8 @@ sudo yum update -y
 # Instalar Apache
 sudo yum install httpd -y
 
+sudo yum install git -y
+
 # Habilitar Apache en segundo plano
 sudo systemctl start httpd
 sudo systemctl enable httpd
