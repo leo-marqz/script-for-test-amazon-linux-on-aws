@@ -14,7 +14,7 @@ html_content="
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Linux Server </title>
+  <title> Bienvenidos a mi servidor linux </title>
 </head>
 <body>
   <h1>Bienvenidos a mi sitio web!!</h1>
